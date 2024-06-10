@@ -37,8 +37,8 @@ Navigate through the different sections to learn more about me and my work. Feel
 
 ## Screenshots
 
-![Home Page](path/to/screenshot1.png)
-![Projects Section](path/to/screenshot2.png)
+![Home Page](/Portfolio/images/portfolio.png)
+![Projects Section](/Portfolio/images/portfolio1.png)
 
 ## Contact
 
