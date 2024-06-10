@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My Portfolio
 
 Welcome to my portfolio repository! This repository contains the source code for my personal portfolio website.
@@ -49,3 +50,6 @@ You can reach me at:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+=======
+
+>>>>>>> f1b8487a39732318c45c8ac52c869588609e658a
