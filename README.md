@@ -43,7 +43,7 @@ Navigate through the different sections to learn more about me and my work. Feel
 ## Contact
 
 You can reach me at:
-- Email: your-email@example.com
+- Email: kardegoudasangamesh@gmail.com
 - LinkedIn: [Sangamesh Kardegouda](https://www.linkedin.com/in/sangamesh-kardegouda-ab3751280/)
 - Twitter: [@S_P_Kardegouda](https://x.com/S_P_Kardegouda)
 
