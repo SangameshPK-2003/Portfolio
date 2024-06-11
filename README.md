@@ -44,6 +44,6 @@ Navigate through the different sections to learn more about me and my work. Feel
 
 You can reach me at:
 - Email: your-email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
+- LinkedIn: [Sangamesh Kardegouda](https://www.linkedin.com/in/sangamesh-kardegouda-ab3751280/)
+- Twitter: [@S_P_Kardegouda](https://x.com/S_P_Kardegouda)
 
