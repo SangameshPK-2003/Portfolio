@@ -8381,15 +8381,15 @@ h1, h2, h3, h4, h5,
       transition: .3s all ease-out; }
     .ftco-navbar-light.scrolled .navbar-brand {
       color: #FFAC00;
-      font-family: mustardo;
+      font-family: "Poppins", Arial, sans-serif;
       padding-top: 1rem;
       padding-bottom: 1rem;
-      font-size: 24px; }
+      font-size: 28px; }
 
 .navbar-brand {
   color: #FFAC00;
-  font-family: mustardo;
-  font-size: 26px;
+  font-family: "Poppins", Arial, sans-serif;
+  font-size: 30px;
   position: relative;
   z-index: 0; }
 
