@@ -1,7 +1,11 @@
 
 # My Portfolio
 
-Welcome to my portfolio repository! This repository contains the source code for my personal portfolio website.
+Welcome to my portfolio repository! This repository contains the source code for my personal portfolio website
+
+# Demo
+
+Explore the full portfolio [here](https://sangameshpk-2003.github.io/Portfolio/)
 
 ## Table of Contents
 
