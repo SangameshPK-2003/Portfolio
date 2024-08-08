@@ -15,7 +15,6 @@ Explore the full portfolio [here](https://sangameshpk-2003.github.io/Portfolio/)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contact](#contact)
-- [License](#license)
 
 ## Introduction
 
