@@ -1,14 +1,10 @@
-
 # My Portfolio
-
 Welcome to my portfolio repository! This repository contains the source code for my personal portfolio website
 
-# Demo
-
+## Demo
 Explore the full portfolio [here](https://sangameshpk-2003.github.io/Portfolio/)
 
 ## Table of Contents
-
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
@@ -17,7 +13,6 @@ Explore the full portfolio [here](https://sangameshpk-2003.github.io/Portfolio/)
 - [Contact](#contact)
 
 ## Introduction
-
 This is my personal portfolio website where I showcase my skills, projects, and experiences. It includes sections such as About Me, Projects, Skills, Contact, and more.
 
 ## Features
