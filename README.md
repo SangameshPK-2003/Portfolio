@@ -4,7 +4,7 @@ Welcome to my portfolio repository! This repository contains the source code for
 ## Demo
 Explore the full portfolio [here](https://sangameshpk-2003.github.io/Portfolio/)
 
-### Table of Contents
+## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
