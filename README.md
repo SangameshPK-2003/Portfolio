@@ -46,4 +46,3 @@ You can reach me at:
 - Twitter: [@S_P_Kardegouda](https://x.com/S_P_Kardegouda)
 
 
-
